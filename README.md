@@ -7,7 +7,7 @@
     
 ---   
 
-   📫 <h5>información importante sobre mi : </h5>
+  <h5>información importante sobre mi : </h5>
 
 - ⚡ Desarrolladora novata  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia.
 - 🔭 Soy una apasionada por el desarrollo front-end y la creación de experiencias de usuario impactantes.
@@ -15,32 +15,24 @@
 - 😄 Estoy comprometida con la calidad, la eficiencia y la satisfacción del usuario final.
 - 👯 estoy Comprometida con el trabajo en equipo y la colaboración para lograr  grandes resultados.
 ---
-  📫 <h5>Frameworks y herramientas:</h5>
-<div aling="left">
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="html5" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript1" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript-original" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
-    </div>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" title="canva-original" width="40" height="40"/>
-    </div>
-</div>
+<h5> Redes:</h5>
+<div
+  <a href="https://www.instagram.com/espe024/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
 
+---
+  
+  <h5>Frameworks y herramientas:</h5>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+
+   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
