@@ -43,8 +43,6 @@ div id="header" align="center">
 
  <div >
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" title="canva-original" width="40" height="40"/>
- </div>
 
- </div>
  </div>
 
