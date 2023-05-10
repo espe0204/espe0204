@@ -13,36 +13,31 @@ div id="header" align="center">
 - 😄 Estoy comprometida con la calidad, la eficiencia y la satisfacción del usuario final.
 - 👯 estoy Comprometida con el trabajo en equipo y la colaboración para lograr  grandes resultados.
 
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="html5" width="40" height="40"/>
-     <div>
- <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="40" height="40"/>
-
- </div>
-
- <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript1" width="40" height="40"/>
+<div style="display: flex;">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="html5" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript1" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript-original" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" title="canva-original" width="40" height="40"/>
+    </div>
 </div>
 
- <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>
-</div>
-
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript-original" width="40" height="40"/>
-</div>
-
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="40" height="40"/>
- </div>
-
- <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
- </div>
-
- <div >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" title="canva-original" width="40" height="40"/>
-
- </div>
 
