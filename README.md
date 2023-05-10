@@ -13,7 +13,7 @@ div id="header" align="center">
 - 😄 Estoy comprometida con la calidad, la eficiencia y la satisfacción del usuario final.
 - 👯 estoy Comprometida con el trabajo en equipo y la colaboración para lograr  grandes resultados.
 
- <div align="left">
+ 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="html5" width="40" height="40"/>
     
  <div>
@@ -47,4 +47,4 @@ div id="header" align="center">
 
  </div>
  </div>
--->
+
