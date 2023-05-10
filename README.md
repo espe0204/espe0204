@@ -16,16 +16,16 @@ div id="header" align="center">
  <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="html5" width="40" height="40"/>
     
-
+ <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="40" height="40"/>
 
  </div>
 
-
+ <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript1" width="40" height="40"/>
 </div>
 
-
+ <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>
 </div>
 
@@ -45,6 +45,6 @@ div id="header" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" title="canva-original" width="40" height="40"/>
  </div>
 
-
+ </div>
  </div>
 -->
