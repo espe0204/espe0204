@@ -12,21 +12,16 @@ div id="header" align="center">
     <h1 align="center">Hola soy Esperanza Gonzalez</h1>
     <i class="fa-thin fa-poo"></i>
     <h3>Desarrolladora novata  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia, Dispuesta a colaborar en proyectos y seguir creciendo en el mundo de la programación.</h3>
-    
-    ### información importante sobre mi :
-<i class="fa-thin fa-heart"></i><p>Apasionado por el desarrollo front-end y la creación de experiencias de usuario impactantes
-</p>
-    <i class="fa-thin fa-heart"></i><p>Soy una persona curiosa y proactiva que esta en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.</p>
-    <i class="fa-thin fa-heart"></i><p>Comprometido con la calidad, la eficiencia y la satisfacción del usuario final.</p>
-    <i class="fa-thin fa-heart"></i><p>Comprometido con el trabajo en equipo y la colaboración para lograr  grandes resultados </p>
+    ---
+    ### 📫 información importante sobre mi :
+
+    thin fa-heart"></i><p>Comprometido con el trabajo en equipo y la colaboración para lograr  grandes resultados </p>
+
+- ⚡ Desarrolladora novata  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia.
+- 🔭 Soy una apasionada por el desarrollo front-end y la creación de experiencias de usuario impactantes.
+- 💬 Soy una persona curiosa y proactiva que esta en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente
+- 😄 Estoy comprometida con la calidad, la eficiencia y la satisfacción del usuario final.
+- 👯 estoy Comprometida con el trabajo en equipo y la colaboración para lograr  grandes resultados.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
