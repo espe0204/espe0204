@@ -4,7 +4,10 @@
     <i class="fa-thin fa-poo"></i>
     <h3>Desarrolladora novata  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia, Dispuesta a colaborar en proyectos y seguir creciendo en el mundo de la programación.</h3>
     </div>
-    
+      <img align="left" alt="Coding" width="100" src="https://media.giphy.com/media/DqBvd3IKURc40jgCdZ/giphy.gif">
+        <img align="left" alt="Coding" width="100" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1NmI5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
+        
+       
 ---   
 
   <h5>información importante sobre mi : </h5>
