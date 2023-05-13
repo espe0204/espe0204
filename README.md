@@ -1,11 +1,11 @@
 
 <div id="header" align="center">
          <h1 align="center">Hola soy Esperanza Gonzalez</h1>
+            <img  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1NmI5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
     <i class="fa-thin fa-poo"></i>
     <h3>Desarrolladora novata  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia, Dispuesta a colaborar en proyectos y seguir creciendo en el mundo de la programación.</h3>
     </div>
-      <img align="left" alt="Coding" width="100" src="https://media.giphy.com/media/DqBvd3IKURc40jgCdZ/giphy.gif">
-        <img align="left" alt="Coding" width="100" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1NmI5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
+    
         
        
 ---   
@@ -26,9 +26,11 @@
 </div>
 
 ---
-  
   <h5>Frameworks y herramientas:</h5>
 
+  <img align="center" alt="Coding" width="100" src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif">
+        <img align="left" alt="Coding" width="100" src= "https://https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif">
+        
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
