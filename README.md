@@ -3,7 +3,7 @@
          <h1 align="center">Hola soy Esperanza Gonzalez</h1>
             <img  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1NmI5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
     <i class="fa-thin fa-poo"></i>
-    <h3>Desarrolladora Junior de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia, Dispuesta a colaborar en proyectos y seguir creciendo en el mundo de la programación.</h3>
+    <h3>Desarrolladora Junior Full Stack, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia, Dispuesta a colaborar en proyectos y seguir creciendo en el mundo de la programación.</h3>
     </div>
     
         
