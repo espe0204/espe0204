@@ -12,7 +12,7 @@
 
   <h5>información importante sobre mi : </h5>
 
-- ⚡ Desarrolladora novata  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia.
+- ⚡ Desarrolladora junior  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia.
 - 🔭 Soy una apasionada por el desarrollo front-end y la creación de experiencias de usuario impactantes.
 - 💬 Soy una persona curiosa y proactiva que esta en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente
 - 😄 Estoy comprometida con la calidad, la eficiencia y la satisfacción del usuario final.
