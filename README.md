@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
-         <h1 align="center">Hola soy Esperanza Gonzalez</h1>
-            <img  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1NmI5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
+         <h1 align="center">Hola soy Hope Gonzalez</h1>
+            <img  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1Nm I5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
     <i class="fa-thin fa-poo"></i>
-    <h3>Desarrolladora Junior Full Stack, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia, Dispuesta a colaborar en proyectos y seguir creciendo en el mundo de la programación.</h3>
+    <h3>Soy un Diseñador UX apasionado por crear experiencias de usuario intuitivas y atractivas. En formación en psicología y programacion, combino el entendimiento del comportamiento humano con habilidades técnicas para diseñar interfaces que mejoren la interacción entre los usuarios y los productos digitales. </h3>
     </div>
     
         
@@ -12,7 +12,7 @@
 
   <h5>información importante sobre mi : </h5>
 
-- ⚡ Desarrolladora junior  de Full Stark, Apasionada por la programación y en constante aprendizaje para mejorar mis habilidades y experiencia.
+- desing ux, Apasionada por el diseño y la programacion y  en constante aprendizaje para mejorar mis habilidades y experiencia.
 - 🔭 Soy una apasionada por el desarrollo front-end y la creación de experiencias de usuario impactantes.
 - 💬 Soy una persona curiosa y proactiva que esta en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente
 - 😄 Estoy comprometida con la calidad, la eficiencia y la satisfacción del usuario final.
