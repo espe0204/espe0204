@@ -1,6 +1,9 @@
+.
+    <!-- Banner de Capsule Render a pantalla completa -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hola%20Soy%20Hope%20Gonzalez&fontColor=black" width="100%"/>
 
 <div id="header" align="center">
-         <h1 align="center">Hola soy Hope Gonzalez</h1>
+         <h1 align="center"></h1>
             <img  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMwMDRiOWMxMDZlMjM1Nm I5ZGVlZWFmNDQ0Mjg4OGFkODA2YzE3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PkD8o1I8w55aE/giphy.gif">
     <i class="fa-thin fa-poo"></i>
     <h3>Soy un Diseñador UX apasionado por crear experiencias de usuario intuitivas y atractivas. En formación en psicología y programacion, combino el entendimiento del comportamiento humano con habilidades técnicas para diseñar interfaces que mejoren la interacción entre los usuarios y los productos digitales. </h3>
